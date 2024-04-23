@@ -4,7 +4,7 @@ outline: deep
 ---
 
 
-1. ##### 下载windows版激活教程
+1. ##### 下载mac版激活教程，[下载地址](http://43.142.235.127/static/mac.zip)
 
 2. ##### 将压缩包解压到桌面，如果没有解压到桌面无法激活成功
 
@@ -12,9 +12,9 @@ outline: deep
 
    <img style="margin: 20px 0" src=".vitepress/public/download.jpg">
 
-4. ##### 打开解压后的文件夹，双击运行你需要激活的ide对应的脚本（！注意需要关闭开发工具）
+4. ##### 在文件夹里打开终端，执行对应的脚本，例如激活goland，执行sh golang.sh （！注意需要关闭开发工具）
 
-   <img style="margin: 20px 0" src=".vitepress/public/active.jpg">
+   <img style="margin: 20px 0" src=".vitepress/public/mac.jpg">
 
 5. ##### 激活成功
 
@@ -24,4 +24,4 @@ outline: deep
 
 6. ##### 如果激活失败，请先运行sh clear.sh
 
-   <img style="margin: 20px 0" src=".vitepress/public/fail.jpg">
+   <img style="margin: 20px 0" src=".vitepress/public/clear.jpg">

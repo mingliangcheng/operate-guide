@@ -14,11 +14,7 @@ hero:
       text: mac系统激活
       link: /mac-example
 
-#features:
-#  - title: Feature A
-#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - title: Feature B
-#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - title: Feature C
-#    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
+
+几分钟简单快速激活ide，不同系统见左侧菜单。
