@@ -18,9 +18,9 @@ outline: deep
 
 5. ##### 激活成功
 
-   <img style="margin: 20px 0" src=".vitepress/public/success.jpg">
+   <img style="margin: 20px 0" src=".vitepress/public/final.jpg">
 
-   <img style="margin: 20px 0" src=".vitepress/public/success1.jpg">
+   <img style="margin: 20px 0" src=".vitepress/public/success2.jpg">
 
 6. ##### 如果激活失败，请先运行sh clear.sh
 
